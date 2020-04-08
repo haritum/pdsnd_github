@@ -1,11 +1,17 @@
+#
+# Import modules
 import time
 import pandas as pd
 import numpy as np
 
+#
+# Bikeshare data and names corresponding
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+#
+# Functions that are used in this statistics extraction script
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
