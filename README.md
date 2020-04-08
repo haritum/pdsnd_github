@@ -1,15 +1,12 @@
-### Date created
-Include the date you created this project and README file.
+### April 8th, 2020
 
-### Project Title
-Replace the Project Title
+### Explore US Bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+In this project, we explore bikeshare data across 3 major US cities: chicago, washington and new york city. Further, a customized (based on user input) statistics output is printed on to the screen.  
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+- [Udacity](https://classroom.udacity.com/nanodegrees/nd104)
