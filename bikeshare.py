@@ -1,11 +1,19 @@
+<<<<<<< HEAD
 #
 # Import modules
+=======
+# import modules
+>>>>>>> ac1c5f99b32a7879098d6ba736db3eb9389bf594
 import time
 import pandas as pd
 import numpy as np
 
+<<<<<<< HEAD
 #
 # Bikeshare data and names corresponding
+=======
+# Names for bikeshare data
+>>>>>>> ac1c5f99b32a7879098d6ba736db3eb9389bf594
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
