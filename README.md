@@ -10,4 +10,8 @@ bikeshare.py
 README
 
 ### Credits
+<<<<<<< HEAD
 - [Udacity](https://classroom.udacity.com/nanodegrees/nd104)
+=======
+- Udacity
+>>>>>>> refactoring
